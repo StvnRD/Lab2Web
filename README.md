@@ -51,8 +51,7 @@
   
 # **Menambahkan CSS Selector**
 
-  + Menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode ini.</br>
-    Jangan lupa di save
+  + Menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode ini. Jangan lupa di save
   ![CSS 5 1](https://user-images.githubusercontent.com/56438848/113548107-2a1fad80-9619-11eb-98d2-283e8a267dd8.jpg)
   
   + Reload atau refresh halaman web, halaman akan berubah tampilan
